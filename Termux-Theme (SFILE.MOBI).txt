@@ -1,0 +1,14 @@
+Penginstallan :
+
+$ apt update && apt upgrade
+$ pkg install bash
+$ pkg install python
+$ pkg install git
+$ git clone https://github.com/Sxp-ID/termux-theme
+$ cd termux-theme
+$ bash install.sh
+
+Thanks for watching..
+Jangan lupa untuk subrek channel yt admin FREE TUTORIAL
+dan aktifkan notifikasi loncengnya biar tau kalo
+admin upload video baru !
